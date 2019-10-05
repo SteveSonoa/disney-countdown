@@ -34,6 +34,12 @@
   margin-top: 100px;
 }
 
+.Countdown a.github {
+  color: #fff;
+  text-align: center;
+  margin: 10px 0;
+}
+
 .stars-container {
   height: 100vh;
   width: 100vw;

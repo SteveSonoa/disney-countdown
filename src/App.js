@@ -97,6 +97,7 @@ class App extends Component {
 					<div className='movie-container'>
 						<YouTube id="pj-6U2sjtus" />
 					</div>
+					<a className='github' href='https://github.com/SteveSonoa/disney-countdown' target='_blank' rel="noopener noreferrer">GitHub.com</a>
 				</div>
 			</>
 		);
