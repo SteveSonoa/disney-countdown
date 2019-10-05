@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import moment from 'moment';
 
 import Counter from './components/Counter';
 import YouTube from './components/YouTube';
@@ -109,7 +110,7 @@ App.propTypes = {
 };
 
 App.defaultProps = {
-	date: new Date('2019-11-9')
+	date: moment('2019-11-9 12:00:00')
 };
 
 export default App;
